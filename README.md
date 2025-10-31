@@ -57,12 +57,12 @@ Open DevTools → Network tab to inspect each API call.
 
 Educational Concepts Demonstrated:
 
-✅ Using fetch() for API requests
-✅ Handling async / await and try...catch for clean error management
-✅ Working with JSON responses
-✅ Building a responsive CSS Grid layout
-✅ Reusable DOM manipulation helpers
-✅ Graceful loading and error states
+-✅ Using fetch() for API requests
+-✅ Handling async / await and try...catch for clean error management
+-✅ Working with JSON responses
+-✅ Building a responsive CSS Grid layout
+-✅ Reusable DOM manipulation helpers
+-✅ Graceful loading and error states
 
 API Keys:
 
